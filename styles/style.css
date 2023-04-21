@@ -334,36 +334,36 @@ img {
   text-align: center;
 }
 
-.registrationButton {
+.registrationLabel2 {
+  text-align: center;
+  padding-top: 0;
+}
+
+
+.emailContainer{
   font-size: 1rem;
   display: block;
-  color: #113362;
+  color: #1C48A8;
   background-color: #FAE06F;
   width: 50%;
   padding: 5px;
   border-radius: 20px;
   margin: 0 auto;
 }
+
 .registrationButton:hover {
   color: #FAE06F;
-  background-color: #113362;
+  background-color: #1C48A8;
 }
 
 .event1 {
-  color: #113362;
+  color: #1C48A8;
   background-color: #FAE06F;
   text-align: center;
 }
 
 .eventContainer {
   background-color: white;
-}
-
-.covidInfoButton {
-  font-size: 1rem;
-}
-.covidInfoButton:hover {
-  color: #FAE06F;
 }
 
 .sponsorLogos {
