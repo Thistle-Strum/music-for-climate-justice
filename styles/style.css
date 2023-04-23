@@ -360,6 +360,12 @@ img {
   text-align: center;
 }
 
+.emailText {
+  display: block;
+  font-weight: bold;
+  text-align: center;
+}
+
 .eventContainer {
   background-color: white;
 }
