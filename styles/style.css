@@ -308,7 +308,7 @@ img {
 .logoContainer {
   position: absolute;
   top: -16%;
-  left: 45%;
+  left: 43%;
   right: 45%;
   width: 15%;
 }
@@ -330,6 +330,7 @@ img {
   width: 100%;
 }
 
+
 .registrationLabel {
   text-align: center;
 }
@@ -340,17 +341,6 @@ img {
 }
 
 
-.emailContainer{
-  font-size: 1rem;
-  display: block;
-  color: #1C48A8;
-  background-color: #FAE06F;
-  width: 50%;
-  padding: 5px;
-  border-radius: 20px;
-  margin: 0 auto;
-}
-
 .registrationButton:hover {
   color: #FAE06F;
   background-color: #1C48A8;
@@ -359,6 +349,14 @@ img {
 .event1 {
   color: #1C48A8;
   background-color: #FAE06F;
+  text-align: center;
+}
+
+.emailLink  {
+  font-size: 1rem;
+  display: block;
+  font-weight: bold;
+  color: #1C48A8;
   text-align: center;
 }
 
@@ -373,9 +371,8 @@ img {
      object-fit: cover;
 }
 
-.areej-logo,
 .tac-logo {
-  padding: 50px;
+  border: red solid 2px;
   max-width: 50%;
 }
 
@@ -501,8 +498,4 @@ html {
     right: 0%;
     top: -28%;
   }
-  .areej-logo,
-.tac-logo {
-    padding: 10px;
-  }
-}
+ 
