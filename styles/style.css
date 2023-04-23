@@ -308,7 +308,7 @@ img {
 .logoContainer {
   position: absolute;
   top: -16%;
-  left: 43%;
+  left: 42.5%;
   right: 45%;
   width: 15%;
 }
@@ -372,7 +372,6 @@ img {
 }
 
 .tac-logo {
-  border: red solid 2px;
   max-width: 50%;
 }
 
@@ -485,7 +484,7 @@ html {
   }
   .menu-checkbox:checked + .navContainer li:nth-child(3) {
     position: relative;
-    right: 10%;
+    right: 15%;
     top: -28%;
   }
   .menu-checkbox:checked + .navContainer li:nth-child(4) {
