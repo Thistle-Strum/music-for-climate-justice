@@ -364,15 +364,16 @@ img {
   background-color: white;
 }
 
-.sponsorLogos {
+.sponsorLogo {
   display: flex;
   justify-content: center;
-  -o-object-fit: cover;
-     object-fit: cover;
 }
 
 .tac-logo {
-  max-width: 50%;
+  max-width: 400px;
+  max-height: 225px;
+  padding-bottom: 20px;
+
 }
 
 /* collapsed nav bar */
